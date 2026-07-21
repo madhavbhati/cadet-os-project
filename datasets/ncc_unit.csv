@@ -1,0 +1,355 @@
+dli_number,unit,group_name,directorate,squadron,cadet_year,joining_date,enrollment_status
+DLI22SDA000001,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2022-07-08,completed
+DLI22SDA000002,7 Delhi Bn NCC,Group B,Delhi Directorate,charlie,3,2022-07-04,Completed
+DLI22SDA000003,7 Delhi Bn NCC,Group B,Delhi Directorate,CHARLIE,3,2022-07-01,passed out
+DLI22SDA000004,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,3,2022-07-07,Passed Out
+DLI22SDA000005,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2022-07-13,inactive
+DLI22SDA000006,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2022-07-12,Inactive
+DLI22SDA000007,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2022-07-13,completed
+DLI22SDA000008,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2022-07-11,Completed
+DLI22SDA000009,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2022-07-15,passed out
+DLI22SDA000010,7 Delhi Bn NCC,Group B,Delhi Directorate,charlie,3,2022-07-03,Passed Out
+DLI22SDA000011,7 Delhi Bn NCC,Group B,Delhi Directorate,ALPHA,3,2022-07-13,inactive
+DLI22SDA000012,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta Sq,3,2022-07-07,Inactive
+DLI22SDA000013,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2022-07-01,completed
+DLI22SDA000014,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2022-07-05,Completed
+DLI22SDA000015,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2022-07-03,passed out
+DLI22SDA000016,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2022-07-04,Passed Out
+DLI22SDA000017,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2022-07-06,inactive
+DLI22SDA000018,7 Delhi Bn NCC,Group B,Delhi Directorate,bravo,3,2022-07-14,Inactive
+DLI22SDA000019,7 Delhi Bn NCC,Group B,Delhi Directorate,ALPHA,3,2022-07-11,completed
+DLI22SDA000020,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha Sq,3,2022-07-10,Completed
+DLI22SDA000021,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2022-07-14,passed out
+DLI22SDA000022,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2022-07-08,Passed Out
+DLI22SDA000023,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2022-07-04,inactive
+DLI22SDA000024,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2022-07-12,Inactive
+DLI22SDA000025,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2022-07-08,completed
+DLI22SDA000026,7 Delhi Bn NCC,Group B,Delhi Directorate,delta,3,2022-07-13,Completed
+DLI22SDA000027,7 Delhi Bn NCC,Group B,Delhi Directorate,ALPHA,3,2022-07-12,passed out
+DLI22SDA000028,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,3,2022-07-15,Passed Out
+DLI22SDA000029,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2022-07-02,inactive
+DLI22SDA000030,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2022-07-02,Inactive
+DLI22SDA000031,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2022-07-03,completed
+DLI22SDA000032,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2022-07-03,Completed
+DLI22SDA000033,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2022-07-03,passed out
+DLI22SDA000034,7 Delhi Bn NCC,Group B,Delhi Directorate,delta,3,2022-07-12,Passed Out
+DLI22SDA000035,7 Delhi Bn NCC,Group B,Delhi Directorate,DELTA,3,2022-07-10,inactive
+DLI22SDA000036,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta Sq,3,2022-07-10,Inactive
+DLI22SDA000037,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2022-07-01,completed
+DLI22SDA000038,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2022-07-08,Completed
+DLI22SDA000039,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2022-07-08,passed out
+DLI22SDA000040,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2022-07-06,Passed Out
+DLI22SDA000041,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2022-07-13,inactive
+DLI22SDA000042,7 Delhi Bn NCC,Group B,Delhi Directorate,charlie,3,2022-07-12,Inactive
+DLI22SDA000043,7 Delhi Bn NCC,Group B,Delhi Directorate,CHARLIE,3,2022-07-07,completed
+DLI22SDA000044,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta Sq,3,2022-07-01,Completed
+DLI22SDA000045,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2022-07-12,passed out
+DLI22SDA000046,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2022-07-09,Passed Out
+DLI22SDA000047,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2022-07-15,inactive
+DLI22SDA000048,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2022-07-12,Inactive
+DLI22SDA000049,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2022-07-06,completed
+DLI22SDA000050,7 Delhi Bn NCC,Group B,Delhi Directorate,delta,3,2022-07-11,Completed
+DLI22SDA000051,7 Delhi Bn NCC,Group B,Delhi Directorate,ALPHA,3,2022-07-09,passed out
+DLI22SDA000052,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,3,2022-07-02,Passed Out
+DLI22SDA000053,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2022-07-07,inactive
+DLI22SDA000054,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2022-07-08,Inactive
+DLI22SDA000055,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2022-07-01,completed
+DLI22SDA000056,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2022-07-05,Completed
+DLI22SDA000057,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2022-07-07,passed out
+DLI22SDA000058,7 Delhi Bn NCC,Group B,Delhi Directorate,bravo,3,2022-07-09,Passed Out
+DLI22SDA000059,7 Delhi Bn NCC,Group B,Delhi Directorate,ALPHA,3,2022-07-12,inactive
+DLI22SDA000060,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo Sq,3,2022-07-07,Inactive
+DLI22SDA000061,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2022-07-02,completed
+DLI22SDA000062,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2022-07-02,Completed
+DLI22SDA000063,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2022-07-02,passed out
+DLI22SDA000064,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2022-07-05,Passed Out
+DLI22SDA000065,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2022-07-15,inactive
+DLI22SDA000066,7 Delhi Bn NCC,Group B,Delhi Directorate,bravo,3,2022-07-11,Inactive
+DLI22SDA000067,7 Delhi Bn NCC,Group B,Delhi Directorate,DELTA,3,2022-07-06,completed
+DLI22SDA000068,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha Sq,3,2022-07-08,Completed
+DLI22SDA000069,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2022-07-07,passed out
+DLI22SDA000070,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2022-07-09,Passed Out
+DLI23SDA000001,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2023-07-15,inactive
+DLI23SDA000002,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2023-07-04,Inactive
+DLI23SDA000003,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2023-07-15,completed
+DLI23SDA000004,7 Delhi Bn NCC,Group B,Delhi Directorate,alpha,3,2023-07-15,Completed
+DLI23SDA000005,7 Delhi Bn NCC,Group B,Delhi Directorate,BRAVO,3,2023-07-15,passed out
+DLI23SDA000006,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,3,2023-07-03,Passed Out
+DLI23SDA000007,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2023-07-02,inactive
+DLI23SDA000008,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2023-07-01,Inactive
+DLI23SDA000009,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2023-07-03,completed
+DLI23SDA000010,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2023-07-02,Completed
+DLI23SDA000011,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2023-07-10,passed out
+DLI23SDA000012,7 Delhi Bn NCC,Group B,Delhi Directorate,alpha,3,2023-07-03,Passed Out
+DLI23SDA000013,7 Delhi Bn NCC,Group B,Delhi Directorate,ALPHA,3,2023-07-11,inactive
+DLI23SDA000014,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,3,2023-07-04,Inactive
+DLI23SDA000015,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2023-07-08,completed
+DLI23SDA000016,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2023-07-11,Completed
+DLI23SDA000017,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2023-07-09,passed out
+DLI23SDA000018,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2023-07-06,Passed Out
+DLI23SDA000019,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2023-07-09,inactive
+DLI23SDA000020,7 Delhi Bn NCC,Group B,Delhi Directorate,charlie,3,2023-07-05,Inactive
+DLI23SDA000021,7 Delhi Bn NCC,Group B,Delhi Directorate,DELTA,3,2023-07-08,completed
+DLI23SDA000022,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha Sq,3,2023-07-02,Completed
+DLI23SDA000023,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2023-07-13,passed out
+DLI23SDA000024,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2023-07-11,Passed Out
+DLI23SDA000025,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2023-07-03,inactive
+DLI23SDA000026,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2023-07-10,Inactive
+DLI23SDA000027,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2023-07-07,completed
+DLI23SDA000028,7 Delhi Bn NCC,Group B,Delhi Directorate,delta,3,2023-07-02,Completed
+DLI23SDA000029,7 Delhi Bn NCC,Group B,Delhi Directorate,DELTA,3,2023-07-09,passed out
+DLI23SDA000030,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha Sq,3,2023-07-01,Passed Out
+DLI23SDA000031,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2023-07-04,inactive
+DLI23SDA000032,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2023-07-04,Inactive
+DLI23SDA000033,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2023-07-03,completed
+DLI23SDA000034,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2023-07-05,Completed
+DLI23SDA000035,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2023-07-03,passed out
+DLI23SDA000036,7 Delhi Bn NCC,Group B,Delhi Directorate,charlie,3,2023-07-12,Passed Out
+DLI23SDA000037,7 Delhi Bn NCC,Group B,Delhi Directorate,BRAVO,3,2023-07-12,inactive
+DLI23SDA000038,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,3,2023-07-07,Inactive
+DLI23SDA000039,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2023-07-01,completed
+DLI23SDA000040,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2023-07-06,Completed
+DLI23SDA000041,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2023-07-01,passed out
+DLI23SDA000042,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2023-07-09,Passed Out
+DLI23SDA000043,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2023-07-13,inactive
+DLI23SDA000044,7 Delhi Bn NCC,Group B,Delhi Directorate,bravo,3,2023-07-01,Inactive
+DLI23SDA000045,7 Delhi Bn NCC,Group B,Delhi Directorate,BRAVO,3,2023-07-02,completed
+DLI23SDA000046,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,3,2023-07-09,Completed
+DLI23SDA000047,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2023-07-11,passed out
+DLI23SDA000048,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2023-07-05,Passed Out
+DLI23SDA000049,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2023-07-10,inactive
+DLI23SDA000050,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2023-07-09,Inactive
+DLI23SDA000051,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2023-07-01,completed
+DLI23SDA000052,7 Delhi Bn NCC,Group B,Delhi Directorate,delta,3,2023-07-05,Completed
+DLI23SDA000053,7 Delhi Bn NCC,Group B,Delhi Directorate,ALPHA,3,2023-07-15,passed out
+DLI23SDA000054,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,3,2023-07-13,Passed Out
+DLI23SDA000055,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2023-07-03,inactive
+DLI23SDA000056,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2023-07-06,Inactive
+DLI23SDA000057,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2023-07-15,completed
+DLI23SDA000058,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2023-07-04,Completed
+DLI23SDA000059,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2023-07-14,passed out
+DLI23SDA000060,7 Delhi Bn NCC,Group B,Delhi Directorate,bravo,3,2023-07-08,Passed Out
+DLI23SDA000061,7 Delhi Bn NCC,Group B,Delhi Directorate,DELTA,3,2023-07-13,inactive
+DLI23SDA000062,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,3,2023-07-04,Inactive
+DLI23SDA000063,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2023-07-04,completed
+DLI23SDA000064,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2023-07-11,Completed
+DLI23SDA000065,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2023-07-08,passed out
+DLI23SDA000066,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2023-07-08,Passed Out
+DLI23SDA000067,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2023-07-08,inactive
+DLI23SDA000068,7 Delhi Bn NCC,Group B,Delhi Directorate,delta,3,2023-07-04,Inactive
+DLI23SDA000069,7 Delhi Bn NCC,Group B,Delhi Directorate,DELTA,3,2023-07-02,completed
+DLI23SDA000070,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,3,2023-07-03,Completed
+DLI24SDA000001,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-07,enrolled
+DLI24SDA000002,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2024-07-09,Enrolled
+DLI24SDA000003,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2024-07-11,ACTIVE
+DLI24SDA000004,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2024-07-11,Active
+DLI24SDA000005,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2024-07-09,enrolled
+DLI24SDA000006,7 Delhi Bn NCC,Group B,Delhi Directorate,bravo,3,2024-07-14,Enrolled
+DLI24SDA000007,7 Delhi Bn NCC,Group B,Delhi Directorate,ALPHA,3,2024-07-13,ACTIVE
+DLI24SDA000008,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,3,2024-07-02,Active
+DLI24SDA000009,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-03,enrolled
+DLI24SDA000010,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2024-07-11,Enrolled
+DLI24SDA000011,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2024-07-03,ACTIVE
+DLI24SDA000012,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-14,Active
+DLI24SDA000013,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2024-07-09,enrolled
+DLI24SDA000014,7 Delhi Bn NCC,Group B,Delhi Directorate,delta,3,2024-07-03,Enrolled
+DLI24SDA000015,7 Delhi Bn NCC,Group B,Delhi Directorate,CHARLIE,3,2024-07-14,ACTIVE
+DLI24SDA000016,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta Sq,3,2024-07-13,Active
+DLI24SDA000017,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2024-07-02,enrolled
+DLI24SDA000018,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-08,Enrolled
+DLI24SDA000019,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-09,ACTIVE
+DLI24SDA000020,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2024-07-02,Active
+DLI24SDA000021,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-10,enrolled
+DLI24SDA000022,7 Delhi Bn NCC,Group B,Delhi Directorate,alpha,3,2024-07-03,Enrolled
+DLI24SDA000023,7 Delhi Bn NCC,Group B,Delhi Directorate,BRAVO,3,2024-07-04,ACTIVE
+DLI24SDA000024,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo Sq,3,2024-07-11,Active
+DLI24SDA000025,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2024-07-13,enrolled
+DLI24SDA000026,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2024-07-07,Enrolled
+DLI24SDA000027,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-14,ACTIVE
+DLI24SDA000028,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-11,Active
+DLI24SDA000029,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-06,enrolled
+DLI24SDA000030,7 Delhi Bn NCC,Group B,Delhi Directorate,alpha,3,2024-07-04,Enrolled
+DLI24SDA000031,7 Delhi Bn NCC,Group B,Delhi Directorate,BRAVO,3,2024-07-14,ACTIVE
+DLI24SDA000032,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo Sq,3,2024-07-05,Active
+DLI24SDA000033,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-07,enrolled
+DLI24SDA000034,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2024-07-01,Enrolled
+DLI24SDA000035,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2024-07-13,ACTIVE
+DLI24SDA000036,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2024-07-07,Active
+DLI24SDA000037,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2024-07-01,enrolled
+DLI24SDA000038,7 Delhi Bn NCC,Group B,Delhi Directorate,delta,3,2024-07-14,Enrolled
+DLI24SDA000039,7 Delhi Bn NCC,Group B,Delhi Directorate,DELTA,3,2024-07-06,ACTIVE
+DLI24SDA000040,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta Sq,3,2024-07-13,Active
+DLI24SDA000041,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2024-07-07,enrolled
+DLI24SDA000042,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2024-07-01,Enrolled
+DLI24SDA000043,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2024-07-04,ACTIVE
+DLI24SDA000044,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-11,Active
+DLI24SDA000045,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2024-07-12,enrolled
+DLI24SDA000046,7 Delhi Bn NCC,Group B,Delhi Directorate,charlie,3,2024-07-15,Enrolled
+DLI24SDA000047,7 Delhi Bn NCC,Group B,Delhi Directorate,CHARLIE,3,2024-07-06,ACTIVE
+DLI24SDA000048,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo Sq,3,2024-07-07,Active
+DLI24SDA000049,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2024-07-08,enrolled
+DLI24SDA000050,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2024-07-10,Enrolled
+DLI24SDA000051,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-14,ACTIVE
+DLI24SDA000052,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-14,Active
+DLI24SDA000053,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-04,enrolled
+DLI24SDA000054,7 Delhi Bn NCC,Group B,Delhi Directorate,delta,3,2024-07-12,Enrolled
+DLI24SDA000055,7 Delhi Bn NCC,Group B,Delhi Directorate,CHARLIE,3,2024-07-15,ACTIVE
+DLI24SDA000056,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo Sq,3,2024-07-03,Active
+DLI24SDA000057,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-08,enrolled
+DLI24SDA000058,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-10,Enrolled
+DLI24SDA000059,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2024-07-13,ACTIVE
+DLI24SDA000060,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2024-07-09,Active
+DLI24SDA000061,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,3,2024-07-15,enrolled
+DLI24SDA000062,7 Delhi Bn NCC,Group B,Delhi Directorate,delta,3,2024-07-07,Enrolled
+DLI24SDA000063,7 Delhi Bn NCC,Group B,Delhi Directorate,DELTA,3,2024-07-11,ACTIVE
+DLI24SDA000064,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha Sq,3,2024-07-14,Active
+DLI24SDA000065,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2024-07-13,enrolled
+DLI24SDA000066,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,3,2024-07-11,Enrolled
+DLI24SDA000067,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2024-07-03,ACTIVE
+DLI24SDA000068,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,3,2024-07-04,Active
+DLI24SDA000069,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,3,2024-07-10,enrolled
+DLI24SDA000070,7 Delhi Bn NCC,Group B,Delhi Directorate,bravo,3,2024-07-09,Enrolled
+DLI25SDA000001,7 Delhi Bn NCC,Group B,Delhi Directorate,DELTA,2,2025-07-05,ACTIVE
+DLI25SDA000002,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha Sq,2,2025-07-08,Active
+DLI25SDA000003,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,2,2025-07-13,enrolled
+DLI25SDA000004,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-02,Enrolled
+DLI25SDA000005,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,2,2025-07-07,ACTIVE
+DLI25SDA000006,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-10,Active
+DLI25SDA000007,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,2,2025-07-01,enrolled
+DLI25SDA000008,7 Delhi Bn NCC,Group B,Delhi Directorate,bravo,2,2025-07-07,Enrolled
+DLI25SDA000009,7 Delhi Bn NCC,Group B,Delhi Directorate,DELTA,2,2025-07-02,ACTIVE
+DLI25SDA000010,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo Sq,2,2025-07-09,Active
+DLI25SDA000011,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-02,enrolled
+DLI25SDA000012,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-12,Enrolled
+DLI25SDA000013,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,2,2025-07-15,ACTIVE
+DLI25SDA000014,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,2,2025-07-13,Active
+DLI25SDA000015,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,2,2025-07-03,enrolled
+DLI25SDA000016,7 Delhi Bn NCC,Group B,Delhi Directorate,bravo,2,2025-07-13,Enrolled
+DLI25SDA000017,7 Delhi Bn NCC,Group B,Delhi Directorate,CHARLIE,2,2025-07-11,ACTIVE
+DLI25SDA000018,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo Sq,2,2025-07-01,Active
+DLI25SDA000019,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,2,2025-07-06,enrolled
+DLI25SDA000020,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-05,Enrolled
+DLI25SDA000021,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,2,2025-07-07,ACTIVE
+DLI25SDA000022,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-05,Active
+DLI25SDA000023,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,2,2025-07-08,enrolled
+DLI25SDA000024,7 Delhi Bn NCC,Group B,Delhi Directorate,delta,2,2025-07-11,Enrolled
+DLI25SDA000025,7 Delhi Bn NCC,Group B,Delhi Directorate,ALPHA,2,2025-07-13,ACTIVE
+DLI25SDA000026,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha Sq,2,2025-07-15,Active
+DLI25SDA000027,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-06,enrolled
+DLI25SDA000028,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,2,2025-07-05,Enrolled
+DLI25SDA000029,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-14,ACTIVE
+DLI25SDA000030,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,2,2025-07-09,Active
+DLI25SDA000031,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,2,2025-07-10,enrolled
+DLI25SDA000032,7 Delhi Bn NCC,Group B,Delhi Directorate,alpha,2,2025-07-06,Enrolled
+DLI25SDA000033,7 Delhi Bn NCC,Group B,Delhi Directorate,ALPHA,2,2025-07-15,ACTIVE
+DLI25SDA000034,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta Sq,2,2025-07-05,Active
+DLI25SDA000035,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,2,2025-07-14,enrolled
+DLI25SDA000036,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-08,Enrolled
+DLI25SDA000037,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,2,2025-07-09,ACTIVE
+DLI25SDA000038,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-08,Active
+DLI25SDA000039,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-07,enrolled
+DLI25SDA000040,7 Delhi Bn NCC,Group B,Delhi Directorate,bravo,2,2025-07-13,Enrolled
+DLI25SDA000041,7 Delhi Bn NCC,Group B,Delhi Directorate,BRAVO,2,2025-07-14,ACTIVE
+DLI25SDA000042,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo Sq,2,2025-07-14,Active
+DLI25SDA000043,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,2,2025-07-12,enrolled
+DLI25SDA000044,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,2,2025-07-10,Enrolled
+DLI25SDA000045,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,2,2025-07-12,ACTIVE
+DLI25SDA000046,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-09,Active
+DLI25SDA000047,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-15,enrolled
+DLI25SDA000048,7 Delhi Bn NCC,Group B,Delhi Directorate,bravo,2,2025-07-11,Enrolled
+DLI25SDA000049,7 Delhi Bn NCC,Group B,Delhi Directorate,BRAVO,2,2025-07-10,ACTIVE
+DLI25SDA000050,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,2,2025-07-10,Active
+DLI25SDA000051,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-11,enrolled
+DLI25SDA000052,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-13,Enrolled
+DLI25SDA000053,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-10,ACTIVE
+DLI25SDA000054,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,2,2025-07-03,Active
+DLI25SDA000055,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,2,2025-07-08,enrolled
+DLI25SDA000056,7 Delhi Bn NCC,Group B,Delhi Directorate,charlie,2,2025-07-06,Enrolled
+DLI25SDA000057,7 Delhi Bn NCC,Group B,Delhi Directorate,CHARLIE,2,2025-07-02,ACTIVE
+DLI25SDA000058,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,2,2025-07-12,Active
+DLI25SDA000059,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-08,enrolled
+DLI25SDA000060,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,2,2025-07-06,Enrolled
+DLI25SDA000061,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,2,2025-07-09,ACTIVE
+DLI25SDA000062,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,2,2025-07-09,Active
+DLI25SDA000063,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,2,2025-07-10,enrolled
+DLI25SDA000064,7 Delhi Bn NCC,Group B,Delhi Directorate,charlie,2,2025-07-11,Enrolled
+DLI25SDA000065,7 Delhi Bn NCC,Group B,Delhi Directorate,BRAVO,2,2025-07-02,ACTIVE
+DLI25SDA000066,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta Sq,2,2025-07-05,Active
+DLI25SDA000067,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-11,enrolled
+DLI25SDA000068,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,2,2025-07-05,Enrolled
+DLI25SDA000069,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,2,2025-07-15,ACTIVE
+DLI25SDA000070,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,2,2025-07-05,Active
+DLI25SDA000071,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,2,2025-07-14,enrolled
+DLI26SDA000001,7 Delhi Bn NCC,Group B,Delhi Directorate,bravo,1,2026-07-05,Enrolled
+DLI26SDA000002,7 Delhi Bn NCC,Group B,Delhi Directorate,CHARLIE,1,2026-07-10,ACTIVE
+DLI26SDA000003,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,1,2026-07-09,Active
+DLI26SDA000004,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,1,2026-07-04,enrolled
+DLI26SDA000005,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,1,2026-07-06,Enrolled
+DLI26SDA000006,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,1,2026-07-15,ACTIVE
+DLI26SDA000007,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,1,2026-07-15,Active
+DLI26SDA000008,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,1,2026-07-06,enrolled
+DLI26SDA000009,7 Delhi Bn NCC,Group B,Delhi Directorate,alpha,1,2026-07-15,Enrolled
+DLI26SDA000010,7 Delhi Bn NCC,Group B,Delhi Directorate,BRAVO,1,2026-07-04,ACTIVE
+DLI26SDA000011,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha Sq,1,2026-07-10,Active
+DLI26SDA000012,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,1,2026-07-04,enrolled
+DLI26SDA000013,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,1,2026-07-06,Enrolled
+DLI26SDA000014,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,1,2026-07-05,ACTIVE
+DLI26SDA000015,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,1,2026-07-04,Active
+DLI26SDA000016,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,1,2026-07-14,enrolled
+DLI26SDA000017,7 Delhi Bn NCC,Group B,Delhi Directorate,alpha,1,2026-07-06,Enrolled
+DLI26SDA000018,7 Delhi Bn NCC,Group B,Delhi Directorate,ALPHA,1,2026-07-09,ACTIVE
+DLI26SDA000019,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo Sq,1,2026-07-11,Active
+DLI26SDA000020,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,1,2026-07-07,enrolled
+DLI26SDA000021,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,1,2026-07-05,Enrolled
+DLI26SDA000022,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,1,2026-07-05,ACTIVE
+DLI26SDA000023,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,1,2026-07-10,Active
+DLI26SDA000024,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,1,2026-07-07,enrolled
+DLI26SDA000025,7 Delhi Bn NCC,Group B,Delhi Directorate,alpha,1,2026-07-11,Enrolled
+DLI26SDA000026,7 Delhi Bn NCC,Group B,Delhi Directorate,BRAVO,1,2026-07-11,ACTIVE
+DLI26SDA000027,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,1,2026-07-04,Active
+DLI26SDA000028,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,1,2026-07-13,enrolled
+DLI26SDA000029,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,1,2026-07-10,Enrolled
+DLI26SDA000030,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,1,2026-07-15,ACTIVE
+DLI26SDA000031,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,1,2026-07-13,Active
+DLI26SDA000032,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,1,2026-07-03,enrolled
+DLI26SDA000033,7 Delhi Bn NCC,Group B,Delhi Directorate,bravo,1,2026-07-13,Enrolled
+DLI26SDA000034,7 Delhi Bn NCC,Group B,Delhi Directorate,CHARLIE,1,2026-07-13,ACTIVE
+DLI26SDA000035,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,1,2026-07-12,Active
+DLI26SDA000036,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,1,2026-07-05,enrolled
+DLI26SDA000037,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,1,2026-07-04,Enrolled
+DLI26SDA000038,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,1,2026-07-11,ACTIVE
+DLI26SDA000039,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,1,2026-07-11,Active
+DLI26SDA000040,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,1,2026-07-06,enrolled
+DLI26SDA000041,7 Delhi Bn NCC,Group B,Delhi Directorate,delta,1,2026-07-12,Enrolled
+DLI26SDA000042,7 Delhi Bn NCC,Group B,Delhi Directorate,DELTA,1,2026-07-09,ACTIVE
+DLI26SDA000043,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta Sq,1,2026-07-09,Active
+DLI26SDA000044,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,1,2026-07-06,enrolled
+DLI26SDA000045,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,1,2026-07-04,Enrolled
+DLI26SDA000046,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,1,2026-07-13,ACTIVE
+DLI26SDA000047,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,1,2026-07-08,Active
+DLI26SDA000048,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,1,2026-07-10,enrolled
+DLI26SDA000049,7 Delhi Bn NCC,Group B,Delhi Directorate,delta,1,2026-07-09,Enrolled
+DLI26SDA000050,7 Delhi Bn NCC,Group B,Delhi Directorate,DELTA,1,2026-07-03,ACTIVE
+DLI26SDA000051,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta Sq,1,2026-07-02,Active
+DLI26SDA000052,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,1,2026-07-12,enrolled
+DLI26SDA000053,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,1,2026-07-12,Enrolled
+DLI26SDA000054,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,1,2026-07-15,ACTIVE
+DLI26SDA000055,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,1,2026-07-05,Active
+DLI26SDA000056,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,1,2026-07-11,enrolled
+DLI26SDA000057,7 Delhi Bn NCC,Group B,Delhi Directorate,alpha,1,2026-07-04,Enrolled
+DLI26SDA000058,7 Delhi Bn NCC,Group B,Delhi Directorate,BRAVO,1,2026-07-04,ACTIVE
+DLI26SDA000059,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha Sq,1,2026-07-10,Active
+DLI26SDA000060,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,1,2026-07-13,enrolled
+DLI26SDA000061,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,1,2026-07-11,Enrolled
+DLI26SDA000062,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo,1,2026-07-14,ACTIVE
+DLI26SDA000063,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,1,2026-07-06,Active
+DLI26SDA000064,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie,1,2026-07-03,enrolled
+DLI26SDA000065,7 Delhi Bn NCC,Group B,Delhi Directorate,charlie,1,2026-07-15,Enrolled
+DLI26SDA000066,7 Delhi Bn NCC,Group B,Delhi Directorate,CHARLIE,1,2026-07-11,ACTIVE
+DLI26SDA000067,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha Sq,1,2026-07-13,Active
+DLI26SDA000068,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,1,2026-07-08,enrolled
+DLI26SDA000069,7 Delhi Bn NCC,Group B,Delhi Directorate,Alpha,1,2026-07-06,Enrolled
+DLI26SDA000070,7 Delhi Bn NCC,Group B,Delhi Directorate,Delta,1,2026-07-04,ACTIVE
+DLI22SDA000016,7 Delhi Bn NCC,Group B,Delhi Directorate,Bravo Sq,3,2022-07-04,Passed Out
+DLI22SDA000066,7 Delhi Bn NCC,Group B,Delhi Directorate,bravo,3,2022-07-11,Active
+DLI23SDA000046,7 Delhi Bn NCC,Group B,Delhi Directorate,Charlie Sq,2,2023-07-09,Completed
